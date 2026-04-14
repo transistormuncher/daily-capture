@@ -1,0 +1,2 @@
+- load simplecast data with dlt
+- ticket 3346 (exclude snapshots from backfill logic)
