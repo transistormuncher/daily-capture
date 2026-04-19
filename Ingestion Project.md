@@ -1,3 +1,0 @@
-- load simplecast data with dlt
-- ticket 3346 (exclude snapshots from backfill logic)
-	- https://zeit-online.atlassian.net/browse/DATA-3346
