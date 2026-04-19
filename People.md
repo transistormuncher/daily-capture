@@ -8,6 +8,7 @@
 
 **DataViz**
 - Julius Tröger (ask about Argo Workflows)
+- Selina Rudolph
 
 **Data Science**
 - Andreas Loos
@@ -39,9 +40,17 @@
 
 **Ressort ZON/SEO**
 - Jana Javrov
-- Laura Oelker 
+- Laura Oelker (seit 10 Jahren dabei)
+- Joy Dorow
 
 **Data Analyst**
 - Jana Westerhoff
 - Eva Marckwardt
 - Ilona Faber
+
+**Podcasts**
+Constanze Kainz
+Rita Lauter ("Was jetzt?" Podcast)
+
+**ZON Engineering**
+Juan Garcia Orozco
